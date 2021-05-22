@@ -1,6 +1,6 @@
 ## Bio
 - 🇨🇳 江苏南通 (China)
-- 🏫 Queensland University of Technology (QUT)
+- 🏫 Queensland University of Technology (QUT) - Bachelor of CS
 - 💻 Swift/C#/HTML/CSS/React/Python/JavaScript
 - 📮 liangcheng2456@163.com
 
