@@ -1,5 +1,6 @@
 ## Bio
-- 🇨🇳 江苏南通 (China)
+- 🇨🇳 江苏南通 - My hometown
+- 📍 上海浦东 - Where I am now
 - 🏫 Queensland University of Technology (QUT) - Bachelor of CS
 - 💻 Swift/C#/HTML/CSS/React/Python/JavaScript
 - 📮 liangcheng2456@163.com
