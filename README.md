@@ -5,6 +5,10 @@
 - 💻 Swift/C#/HTML/CSS/React/Python/JavaScript
 - 📮 liangcheng2456@163.com
 
+## Notion CV
+[简历PersonalCV](https://www.notion.so/Personal-CV-c3edd58fc8ac4582920d7952dd5ad40f)
+
+
 ## Interests
 - 电影: 标记1000+ [豆瓣](https://www.douban.com/people/qhy0705/)
 - 数码: 手机、电脑、平板、游戏机(NS, PS4)
