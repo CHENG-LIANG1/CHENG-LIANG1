@@ -21,5 +21,5 @@
 ## Work Experience
 - iOS Developer Intern - Since May 2021
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1)](https://github.com/anuraghazra/github-readme-stats)
 
