@@ -1,3 +1,11 @@
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## Bio
 - 🇨🇳 江苏南通 - My hometown
 - 📍 上海浦东 - Where I am now
@@ -20,6 +28,4 @@
 
 ## Work Experience
 - iOS Developer Intern - Since May 2021
-
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
