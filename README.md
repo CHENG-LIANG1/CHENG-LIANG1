@@ -1,4 +1,4 @@
-[![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
