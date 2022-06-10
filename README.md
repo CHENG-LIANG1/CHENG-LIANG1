@@ -17,7 +17,7 @@
 - 📮 liangcheng2456@163.com
 
 ## My articles
-- [小黑盒](https://www.xiaoheihe.cn/community/user/5099349/post_list)
+- [小黑盒](https://www.xiaoheihe.cn/community/user/5099349/post_list) - 英语教学
 
 ## Notion CV
 [简历PersonalCV](https://www.notion.so/Personal-CV-c3edd58fc8ac4582920d7952dd5ad40f)
