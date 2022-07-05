@@ -1,13 +1,3 @@
-[![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Bio
 - 🇨🇳 江苏南通 - My hometown
@@ -32,3 +22,10 @@
 ## Work Experience
 - iOS Developer Intern - Since May 2021
 
+[![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHENG-LIANG1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
