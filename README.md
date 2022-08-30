@@ -3,7 +3,7 @@
 - 🇨🇳 江苏南通
 - 📍 上海浦东 Shanghai
 - 🏫 Queensland University of Technology (QUT) - Bachelor of CS
-- 💻 Swift/C#/HTML/CSS/React/Python/JavaScript
+- 💻 iOS(UIKit/SwiftUI), Flutter
 - 📮 liangcheng2456@163.com / liangcheng2456@gmail.com
 
 ## My articles
