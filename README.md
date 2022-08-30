@@ -20,7 +20,7 @@
 - 模型: 高达、田宫四驱车、星球大战、龙珠
 
 ## Work Experience
-- iOS Developer Intern - Since May 2021
+- iOS & Flutter Developer - Since May 2021
 
 [![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
