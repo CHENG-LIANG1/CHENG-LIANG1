@@ -1,10 +1,10 @@
 
 ## Bio
-- 🇨🇳 江苏南通 - My hometown
-- 📍 上海浦东 - Where I am now
+- 🇨🇳 江苏南通
+- 📍 上海浦东 Shanghai
 - 🏫 Queensland University of Technology (QUT) - Bachelor of CS
 - 💻 Swift/C#/HTML/CSS/React/Python/JavaScript
-- 📮 liangcheng2456@163.com
+- 📮 liangcheng2456@163.com / liangcheng2456@gmail.com
 
 ## My articles
 - [小黑盒](https://www.xiaoheihe.cn/community/user/5099349/post_list) - 英语教学
