@@ -2,7 +2,7 @@
 ## Bio
 - 🇨🇳 江苏南通
 - 📍 上海浦东 Shanghai
-- 🏫 Queensland University of Technology (QUT) - Bachelor of CS
+- 🏫 Queensland University of Technology (QUT) - Bachelor of Computer Science (Minor - Mobile Applications)
 - 💻 iOS (UIKit/SwiftUI), Flutter
 - 📮 liangcheng2456@163.com / liangcheng2456@gmail.com
 
