@@ -1,26 +1,24 @@
 
 ## Bio
-- 🇨🇳 江苏南通
-- 📍 上海浦东 Shanghai
-- 🏫 Queensland University of Technology (QUT) - Bachelor of Computer Science (Minor - Mobile Applications)
-- 💻 iOS (UIKit/SwiftUI), Flutter
+- 🇨🇳 Nanjing
+- 💼 Front end developer
+- 🏫 Queensland University of Technology (QUT) - Bachelor of Computer Science
+- 💻 iOS (UIKit/SwiftUI), Flutter, React
 - 📮 liangcheng2456@163.com / liangcheng2456@gmail.com
+
+## Work Experience
+- iOS & Flutter Developer - May 2021 ~ Feb 2023
+- Web Developer - Since Feb 2023
 
 ## My articles
 - [小黑盒](https://www.xiaoheihe.cn/community/user/5099349/post_list) - 英语教学
 
-## Notion CV
-[简历PersonalCV](https://www.notion.so/Personal-CV-c3edd58fc8ac4582920d7952dd5ad40f)
-
-
 ## Interests
-- 电影: 标记1000+ [豆瓣](https://www.douban.com/people/qhy0705/)
-- 数码: 手机、电脑、平板、游戏机(NS, PS4)
-- 学习: freeCodeCamp, Udemy, RayWenderlich, LeetCode
-- 模型: 高达、田宫四驱车、星球大战、龙珠
+- 模型: 高达 RX-78、田宫四驱车、星球大战、龙珠
+- 漫画 Manga: Slam Dunk, Attack on Titan
+- 机械键盘 Mechanical Keyboard: Melgeek, James Donkey, Keychron, Cool Killer, IKBC, IQUNIX, PANDAER, Kzzi
+- 充电头 Charger/Adapter：闪极 Sharge, PANDAER
 
-## Work Experience
-- iOS & Flutter Developer - Since May 2021
 
 [![Louis's github activity graph](https://activity-graph.herokuapp.com/graph?username=CHENG-LIANG1&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
