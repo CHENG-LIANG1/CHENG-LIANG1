@@ -4,6 +4,7 @@
 - 💼 Front end developer
 - 🏫 Queensland University of Technology (QUT) - Bachelor of Computer Science
 - 💻 iOS (UIKit/SwiftUI), Flutter, React
+- 🤔 英语专栏作家，IELTS 7.5
 - 📮 liangcheng2456@163.com / liangcheng2456@gmail.com
 
 ## Work Experience
