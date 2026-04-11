@@ -70,11 +70,6 @@ const liang = {
 ## GitHub Weather
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHENG-LIANG1&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENG-LIANG1&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CHENG-LIANG1&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
