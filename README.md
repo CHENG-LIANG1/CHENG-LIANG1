@@ -9,6 +9,20 @@
   <img src="https://komarev.com/ghpvc/?username=CHENG-LIANG1&style=for-the-badge&color=orange" alt="Profile views" />
 </p>
 
+<h2 align="center">
+  🧭 Start here: <a href="https://chengliang.vercel.app">梁非凡's blog</a>
+</h2>
+
+<p align="center">
+  My real homepage lives at <strong><a href="https://chengliang.vercel.app">chengliang.vercel.app</a></strong> — frontend notes, English learning, AI-powered development, and life logs.
+</p>
+
+<p align="center">
+  <a href="https://chengliang.vercel.app">
+    <img src="https://img.shields.io/badge/Open%20the%20Blog-%E2%86%92%20chengliang.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Liang Cheng's blog" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F97316&center=true&vCenter=true&width=860&lines=Flutter+for+China-region+mobile+apps;React+%2B+TypeScript+for+complex+frontends;SwiftUI+%2B+SwiftData+for+indie+iOS+apps;AI-powered+developer%2C+but+still+obsessed+with+taste" alt="Typing SVG" />
 </p>
@@ -62,6 +76,8 @@ const liang = {
 - **Roam Focus** — focus timer meets a tiny virtual journey
 
 ## Recent Blog Routes
+
+> The full map is here: **[梁非凡's blog →](https://chengliang.vercel.app)**
 
 - [AI 浪潮下的前端程序员转型指南](https://chengliang.vercel.app/%E6%8A%80%E6%9C%AF/AI-%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BD%AC%E5%9E%8B%E6%8C%87%E5%8D%97)
 - [英语学习之道](https://chengliang.vercel.app/%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93)
