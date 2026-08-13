@@ -31,7 +31,6 @@
 
 I build interfaces, mobile apps, and small products that try very hard not to feel boring.
 
-- 🧋 Currently building the **China-region Flutter app at CHAGEE / 霸王茶姬**
 - 🛰 Previously worked on telecom-grade **React + TypeScript + ECharts** dashboards at Huawei
 - 🧪 Shipping indie iOS apps with **SwiftUI / SwiftData / Vibe Coding**
 - 🤖 Daily driver of **Cursor, Trae, Claude, ChatGPT** — AI as pair programmer, not autopilot
