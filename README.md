@@ -38,6 +38,14 @@ const liang = {
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <img src="https://img.shields.io/badge/FLAGSHIP-PROJECT-7C3AED?style=flat-square" alt="Flagship project">
+      <h3>🏗️ <a href="https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects">Real-World AI Coding Projects</a></h3>
+      <p>Three anonymized challenges from real hiring processes—and my production-minded solutions—covering a Computer Use agent dashboard, a React Native screenshot-action agent, and a Jira-style task system. The repository also distills a reusable playbook for scope, architecture, testing, evidence, and delivery.</p>
+      <p><code>Computer Use</code> <code>Agent Systems</code> <code>React Native</code> <code>Full-stack</code> <code>Engineering Playbook</code> · <a href="https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects"><strong>Explore the case studies →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧊 <a href="https://github.com/CHENG-LIANG1/ModelForgeAgent">ModelForge Agent</a></h3>
       <p>A stateful 3D-building agent. Models choose typed tools; the host validates every mutation and renders the result in a Three.js editor.</p>
