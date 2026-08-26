@@ -1,97 +1,109 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Liang%20Cheng&fontSize=56&fontAlignY=35&desc=Frontend%20%2F%20Flutter%20Engineer%20%C2%B7%20AI-Powered%20Builder&descAlignY=55&animation=fadeIn" alt="Liang Cheng profile header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+    <img width="100%" src="./assets/profile-header-light.svg" alt="Liang Cheng — AI-native product engineer">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://chengliang.vercel.app"><img src="https://img.shields.io/badge/Blog-%E6%A2%81%E9%9D%9E%E5%87%A1%27s%20blog-FFB86C?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/CHENG-LIANG1"><img src="https://img.shields.io/badge/GitHub-CHENG--LIANG1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:liangcheng2456@163.com"><img src="https://img.shields.io/badge/Email-liangcheng2456%40163.com-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CHENG-LIANG1&style=for-the-badge&color=orange" alt="Profile views" />
-</p>
-
-<h2 align="center">
-  🧭 Start here: <a href="https://chengliang.vercel.app">梁非凡's blog</a>
-</h2>
-
-<p align="center">
-  My real homepage lives at <strong><a href="https://chengliang.vercel.app">chengliang.vercel.app</a></strong> — frontend notes, English learning, AI-powered development, and life logs.
+  <a href="https://chengliang.pro"><img src="https://img.shields.io/badge/PORTFOLIO-chengliang.pro-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://chengliang.vercel.app"><img src="https://img.shields.io/badge/BLOG-梁非凡's_blog-F97316?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="mailto:liangcheng2456@163.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-0A66C2?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=CHENG-LIANG1&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">
-  <a href="https://chengliang.vercel.app">
-    <img src="https://img.shields.io/badge/Open%20the%20Blog-%E2%86%92%20chengliang.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Liang Cheng's blog" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=900&height=45&lines=I+build+agent+systems+that+do+real+work.;I+ship+web+%2B+iOS+products+from+idea+to+proof.;I+make+AI-generated+code+maintainable+and+testable." alt="What Liang Cheng builds">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F97316&center=true&vCenter=true&width=860&lines=Flutter+for+China-region+mobile+apps;React+%2B+TypeScript+for+complex+frontends;SwiftUI+%2B+SwiftData+for+indie+iOS+apps;AI-powered+developer%2C+but+still+obsessed+with+taste" alt="Typing SVG" />
-</p>
+## `> whoami`
 
-## Hey, I'm 梁程 👋
+I'm **Liang Cheng (梁程 / Ray)**, an AI-native product engineer based in Nanjing. I turn fuzzy ideas into working, testable software—from tool-using agents and local-first RAG systems to polished web and iOS products.
 
-I build interfaces, mobile apps, and small products that try very hard not to feel boring.
-
-- 🛰 Previously worked on telecom-grade **React + TypeScript + ECharts** dashboards at Huawei
-- 🧪 Shipping indie iOS apps with **SwiftUI / SwiftData / Vibe Coding**
-- 🤖 Daily driver of **Cursor, Trae, Claude, ChatGPT** — AI as pair programmer, not autopilot
-- 🇦🇺 QUT Computer Science graduate, IELTS 7.5, English-learning note hoarder
-- 📍 Based in Nanjing, China
-
-## Current Quests
-
-| Quest                | What I'm doing                                                          |
-| -------------------- | ----------------------------------------------------------------------- |
-| 🧋 CHAGEE App        | Flutter, mobile UX, production delivery, China-region app work          |
-| 🧠 Vibe Coding Lab   | Turning ideas into SwiftUI apps before the dopamine expires             |
-| ✍️ Blog Garden       | Writing about frontend, English learning, AI tooling, and ordinary life |
-| 🧰 Engineering Taste | Making AI-generated code more maintainable, human, and shippable        |
-
-## Toolbelt
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,swift,apple,vite,html,css,git,github,vscode,androidstudio&perline=7" alt="Tech stack icons" />
-</p>
+- `NOW` Building real agent systems, reusable AI workflows, and stronger backend foundations
+- `BIAS` Tool use over wrapper demos · evidence over pitch · shipping over slide decks
+- `PAST` Built telecom-grade React, TypeScript, and ECharts systems at Huawei
+- `EDU` QUT Computer Science graduate · IELTS 7.5
 
 ```ts
 const liang = {
-  aka: ["梁非凡", "CHENG-LIANG1"],
-  role: "Frontend / Flutter Engineer",
-  now: "CHAGEE China-region App",
-  stack: ["Flutter", "React", "TypeScript", "SwiftUI", "SwiftData"],
-  superpower: "turning vague ideas into shipped interfaces",
-  sideQuests: ["English writing", "iOS apps", "AI tooling", "blogging"],
-  inventory: ["RX-78", "Tamiya Mini 4WD", "mechanical keyboards", "manga"],
-};
+  focus: ["agent systems", "full-stack products", "indie iOS"],
+  buildLoop: ["understand", "prototype", "verify", "ship"],
+  principle: "Build the proof, not just the pitch.",
+} as const;
 ```
 
-## Indie Apps
+## `// featured builds`
 
-- **ActiveHabits** — local-first habit tracker, SwiftUI + SwiftData, zero server data collection
-  <br />
-  <https://apps.apple.com/us/app/active-habits/id6758425099>
-- **GeekBio** — code-style personal card maker with Liquid Glass-inspired UI
-  <br />
-  <https://apps.apple.com/us/app/geekbio/id6758457562>
-- **Roam Focus** — focus timer meets a tiny virtual journey
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧊 <a href="https://github.com/CHENG-LIANG1/ModelForgeAgent">ModelForge Agent</a></h3>
+      <p>A stateful 3D-building agent. Models choose typed tools; the host validates every mutation and renders the result in a Three.js editor.</p>
+      <p><code>Agent Loop</code> <code>TypeScript</code> <code>Fastify</code> <code>React Three Fiber</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/CHENG-LIANG1/SciFlow">SciFlow</a></h3>
+      <p>A local-first research workspace with a React frontend, FastAPI backend, PostgreSQL/pgvector, and privacy-minded document retrieval.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>pgvector</code> <code>Docker</code> · <a href="https://sciflow-demo.vercel.app">Live demo ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://github.com/CHENG-LIANG1/clean-my-mac-codex">clean-my-mac for Codex</a></h3>
+      <p>A safety-first Agent Skill for diagnosing macOS storage pressure with read-only scans, reversible quarantine, and explicit purge gates.</p>
+      <p><code>Codex Skill</code> <code>Shell</code> <code>Safety by design</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/CHENG-LIANG1/badass-skills">Badass Skills</a></h3>
+      <p>A growing, bilingual library of production-grade AI Agent Skills—portable workflows with clear boundaries and observable outcomes.</p>
+      <p><code>SKILL.md</code> <code>Agentic workflows</code> <code>Evaluation</code></p>
+    </td>
+  </tr>
+</table>
 
-## Recent Blog Routes
-
-> The full map is here: **[梁非凡's blog →](https://chengliang.vercel.app)**
-
-- [AI 浪潮下的前端程序员转型指南](https://chengliang.vercel.app/%E6%8A%80%E6%9C%AF/AI-%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BD%AC%E5%9E%8B%E6%8C%87%E5%8D%97)
-- [英语学习之道](https://chengliang.vercel.app/%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93)
-- [Before the snow melts](https://chengliang.vercel.app/%E7%94%9F%E6%B4%BB/Before-the-snow-melts)
-
-## GitHub Weather
+## `// product shelf`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CHENG-LIANG1&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <a href="https://apps.apple.com/us/app/active-habit-tracker/id6758425099"><img src="https://img.shields.io/badge/App_Store-Active_Habits-0D1117?style=for-the-badge&logo=apple&logoColor=white" alt="Active Habits on the App Store"></a>
+  <a href="https://apps.apple.com/us/app/geekbio/id6758457562"><img src="https://img.shields.io/badge/App_Store-GeekBio-0D1117?style=for-the-badge&logo=apple&logoColor=white" alt="GeekBio on the App Store"></a>
+  <a href="https://douban-lens.vercel.app"><img src="https://img.shields.io/badge/WEB-DoubanLens-2F855A?style=for-the-badge&logo=vercel&logoColor=white" alt="DoubanLens live demo"></a>
+  <a href="https://click-arena.vercel.app"><img src="https://img.shields.io/badge/WEB-Click_Arena-EA580C?style=for-the-badge&logo=vercel&logoColor=white" alt="Click Arena live demo"></a>
+</p>
+
+## `// toolkit`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,python,fastapi,postgres,docker,swift,flutter,dart,threejs,git,github,vercel&perline=8" alt="TypeScript, JavaScript, React, Vite, Node.js, Python, FastAPI, PostgreSQL, Docker, Swift, Flutter, Dart, Three.js, Git, GitHub, and Vercel">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHENG-LIANG1&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://img.shields.io/badge/AI-Agent_Loops-7C3AED?style=flat-square" alt="Agent Loops">
+  <img src="https://img.shields.io/badge/AI-Tool_Calling-6D28D9?style=flat-square" alt="Tool Calling">
+  <img src="https://img.shields.io/badge/AI-RAG-5B21B6?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/ENGINEERING-Local_First-0369A1?style=flat-square" alt="Local-first software">
+  <img src="https://img.shields.io/badge/ENGINEERING-Tested-047857?style=flat-square" alt="Tested software">
 </p>
 
+## `// build signal`
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" alt="Footer wave" />
+  <img height="170" src="./assets/github-stats.svg" alt="Liang Cheng's GitHub statistics">
+  <img height="170" src="./assets/top-languages.svg" alt="Liang Cheng's most-used public repository languages">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+  <img width="100%" src="./assets/github-snake.svg" alt="Animated contribution graph">
+</picture>
+
+<p align="center">
+  <a href="https://chengliang.pro">Portfolio</a> ·
+  <a href="https://chengliang.vercel.app">Writing</a> ·
+  <a href="https://github.com/CHENG-LIANG1?tab=repositories">All repositories</a> ·
+  <a href="mailto:liangcheng2456@163.com">Let's build something</a>
+</p>
+
+<p align="center"><sub>Build the proof. Keep the taste. Ship the thing.</sub></p>
