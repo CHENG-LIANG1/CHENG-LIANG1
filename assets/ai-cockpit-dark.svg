@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">AI Build Stack — Codex, Kimi, and Qoder</title>
+  <desc id="desc">Animated dark dashboard showing Codex, Kimi, and Qoder connected in an AI product development loop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.55" stop-color="#101428"/>
+      <stop offset="1" stop-color="#180D28"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="codex" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="kimi" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="qoder" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F472B6"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A78BFA" stroke-opacity="0.07"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="26" fill="url(#grid)"/>
+  <path d="M0 344C320 296 450 398 740 338S1025 314 1200 342" fill="none" stroke="url(#flow)" stroke-opacity="0.25"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="58" cy="42" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="73" y="48" fill="#94A3B8" font-size="14" letter-spacing="2">AI BUILD STACK // LIVE</text>
+    <text x="1142" y="48" fill="#64748B" font-size="12" text-anchor="end">PLAN → BUILD → VERIFY → SHIP</text>
+    <rect x="56" y="68" width="1088" height="2" rx="1" fill="url(#flow)" opacity="0.65"/>
+
+    <g transform="translate(55 96)">
+      <rect width="330" height="208" rx="20" fill="#0B1221" fill-opacity="0.9" stroke="#22D3EE" stroke-opacity="0.48"/>
+      <path d="M20 1H310" stroke="url(#codex)" stroke-width="3"/>
+      <text x="22" y="34" fill="#64748B" font-size="12">ENGINE 01</text>
+      <circle cx="282" cy="29" r="4" fill="#34D399"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="294" y="34" fill="#6EE7B7" font-size="10">ACTIVE</text>
+      <circle cx="54" cy="92" r="27" fill="url(#codex)" filter="url(#glow)"/>
+      <text x="54" y="101" fill="#FFFFFF" font-size="24" font-weight="800" text-anchor="middle">C</text>
+      <text x="96" y="89" fill="#F8FAFC" font-size="31" font-weight="800" letter-spacing="3">CODEX</text>
+      <text x="96" y="112" fill="#67E8F9" font-size="12" letter-spacing="1">AGENTIC CODING</text>
+      <text x="22" y="153" fill="#94A3B8" font-size="12">tools / terminal / tests / delivery</text>
+      <rect x="22" y="174" width="286" height="8" rx="4" fill="#1E293B"/>
+      <rect x="22" y="174" width="246" height="8" rx="4" fill="url(#codex)"><animate attributeName="width" values="96;246;190;246" dur="5s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g transform="translate(435 96)">
+      <rect width="330" height="208" rx="20" fill="#110E22" fill-opacity="0.92" stroke="#A78BFA" stroke-opacity="0.48"/>
+      <path d="M20 1H310" stroke="url(#kimi)" stroke-width="3"/>
+      <text x="22" y="34" fill="#64748B" font-size="12">ENGINE 02</text>
+      <circle cx="282" cy="29" r="4" fill="#34D399"><animate attributeName="r" values="3;6;3" dur="2s" begin=".35s" repeatCount="indefinite"/></circle>
+      <text x="294" y="34" fill="#6EE7B7" font-size="10">ACTIVE</text>
+      <circle cx="54" cy="92" r="27" fill="url(#kimi)" filter="url(#glow)"/>
+      <text x="54" y="101" fill="#FFFFFF" font-size="24" font-weight="800" text-anchor="middle">K</text>
+      <text x="96" y="89" fill="#F8FAFC" font-size="31" font-weight="800" letter-spacing="3">KIMI</text>
+      <text x="96" y="112" fill="#C4B5FD" font-size="12" letter-spacing="1">REASONING PARTNER</text>
+      <text x="22" y="153" fill="#94A3B8" font-size="12">think / search / synthesize / decide</text>
+      <rect x="22" y="174" width="286" height="8" rx="4" fill="#1E293B"/>
+      <rect x="22" y="174" width="218" height="8" rx="4" fill="url(#kimi)"><animate attributeName="width" values="126;260;202;260" dur="5.6s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g transform="translate(815 96)">
+      <rect width="330" height="208" rx="20" fill="#170D1C" fill-opacity="0.92" stroke="#F472B6" stroke-opacity="0.48"/>
+      <path d="M20 1H310" stroke="url(#qoder)" stroke-width="3"/>
+      <text x="22" y="34" fill="#64748B" font-size="12">ENGINE 03</text>
+      <circle cx="282" cy="29" r="4" fill="#34D399"><animate attributeName="r" values="3;6;3" dur="2s" begin=".7s" repeatCount="indefinite"/></circle>
+      <text x="294" y="34" fill="#6EE7B7" font-size="10">ACTIVE</text>
+      <circle cx="54" cy="92" r="27" fill="url(#qoder)" filter="url(#glow)"/>
+      <text x="54" y="101" fill="#FFFFFF" font-size="24" font-weight="800" text-anchor="middle">Q</text>
+      <text x="96" y="89" fill="#F8FAFC" font-size="31" font-weight="800" letter-spacing="3">QODER</text>
+      <text x="96" y="112" fill="#F9A8D4" font-size="12" letter-spacing="1">AI CODING WORKSPACE</text>
+      <text x="22" y="153" fill="#94A3B8" font-size="12">code / review / iterate / integrate</text>
+      <rect x="22" y="174" width="286" height="8" rx="4" fill="#1E293B"/>
+      <rect x="22" y="174" width="232" height="8" rx="4" fill="url(#qoder)"><animate attributeName="width" values="108;244;184;244" dur="5.2s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <path d="M385 200H435M765 200H815" stroke="url(#flow)" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1s" repeatCount="indefinite"/></path>
+    <circle cx="392" cy="200" r="4" fill="#67E8F9" filter="url(#glow)"><animate attributeName="cx" values="392;428" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="772" cy="200" r="4" fill="#C4B5FD" filter="url(#glow)"><animate attributeName="cx" values="772;808" dur="1.4s" begin=".45s" repeatCount="indefinite"/></circle>
+
+    <g transform="translate(55 329)" font-size="11" font-weight="700" letter-spacing="1">
+      <text fill="#64748B">PIPELINE</text>
+      <text x="96" fill="#67E8F9">CONTEXT</text><text x="176" fill="#475569">→</text>
+      <text x="205" fill="#A78BFA">TOOL CALLS</text><text x="302" fill="#475569">→</text>
+      <text x="330" fill="#F9A8D4">HUMAN JUDGMENT</text><text x="464" fill="#475569">→</text>
+      <text x="492" fill="#6EE7B7">VERIFIED OUTPUT</text>
+    </g>
+  </g>
+</svg>

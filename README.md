@@ -29,10 +29,21 @@ I'm **Liang Cheng (梁程 / Ray)**, an AI-native product engineer based in Nanji
 ```ts
 const liang = {
   focus: ["agent systems", "full-stack products", "indie iOS"],
+  aiStack: ["Codex", "Kimi", "Qoder"],
   buildLoop: ["understand", "prototype", "verify", "ship"],
   principle: "Build the proof, not just the pitch.",
 } as const;
 ```
+
+## `// ai cockpit`
+
+<p>My daily AI build stack: <strong>Codex</strong> for agentic coding, <strong>Kimi</strong> as a reasoning partner, and <strong>Qoder</strong> as an AI coding workspace.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-cockpit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ai-cockpit-light.svg">
+  <img width="100%" src="./assets/ai-cockpit-light.svg" alt="Animated AI build stack featuring Codex, Kimi, and Qoder">
+</picture>
 
 ## `// featured builds`
 
@@ -100,6 +111,12 @@ const liang = {
   <img height="170" src="./assets/github-stats.svg" alt="Liang Cheng's GitHub statistics">
   <img height="170" src="./assets/top-languages.svg" alt="Liang Cheng's most-used public repository languages">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution skyline">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
