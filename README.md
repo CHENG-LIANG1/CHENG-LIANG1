@@ -118,6 +118,8 @@ const liang = {
   <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution skyline">
 </picture>
 
+<p align="center"><sub>★ Stars earned across my public repositories · refreshed every 6 hours</sub></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">

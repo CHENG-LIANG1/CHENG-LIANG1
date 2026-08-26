@@ -2,7 +2,7 @@ name: Refresh profile visuals
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "30 */6 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -53,6 +53,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: "200"
 
       - name: Commit refreshed visuals
         run: |
