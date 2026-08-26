@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent&custom_title=Liang%20Cheng%27s%20GitHub%20Stats
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent&custom_title=Public%20Code%20Languages
           path: assets/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
